@@ -744,7 +744,7 @@ Known limitations include:
 
 **GitHub Repository:** Add your final GitHub repository URL.
 
-**Video Demonstration:** Add your Google Drive video URL.
+**Video Demonstration:** https://drive.google.com/file/d/10pAoXIWRaq8IRXA9aI05vL4GopPdWMtQ/view?usp=drive_link
 
 **Live Application:** Not deployed yet due to lack of resources.
 
