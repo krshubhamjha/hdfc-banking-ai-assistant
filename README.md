@@ -742,11 +742,11 @@ Known limitations include:
 
 ## 21. Project Demonstration
 
-**GitHub Repository:** Add your final GitHub repository URL.
+**GitHub Repository:** (https://github.com/krshubhamjha/hdfc-banking-ai-assistant)
 
-**Video Demonstration:** https://drive.google.com/file/d/10pAoXIWRaq8IRXA9aI05vL4GopPdWMtQ/view?usp=drive_link
+**Video Demonstration:** (https://drive.google.com/file/d/10pAoXIWRaq8IRXA9aI05vL4GopPdWMtQ/view?usp=drive_link)
 
-**Live Application:** Not deployed yet due to lack of resources.
+**Live Application:** Not deployed yet due to lack of resources.In future we will deploy it(locally tested and approved)
 
 ---
 
