@@ -1,0 +1,151 @@
+
+# ==========================================
+# PYTHON CACHE
+# ==========================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*$py.class
+
+# ==========================================
+# VIRTUAL ENVIRONMENTS
+# ==========================================
+.venv/
+venv/
+env/
+ENV/
+
+# ==========================================
+# ENVIRONMENT VARIABLES & SECRETS
+# ==========================================
+.env
+.env.*
+!.env.example
+!.env.template
+
+*.pem
+*.key
+*.p12
+*.pfx
+
+secrets/
+credentials/
+service-account*.json
+
+# ==========================================
+# IDE & OPERATING SYSTEM
+# ==========================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# ==========================================
+# LOG FILES
+# ==========================================
+*.log
+logs/
+log/
+
+# ==========================================
+# PYTHON BUILD FILES
+# ==========================================
+*.egg
+*.egg-info/
+.eggs/
+build/
+dist/
+wheels/
+
+# ==========================================
+# TEST CACHE & GENERATED REPORTS
+# ==========================================
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+test-results/
+
+# ==========================================
+# FINE-TUNED MODEL WEIGHTS
+# ==========================================
+models/hdfc_qlora_final/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.gguf
+*.h5
+*.tflite
+
+# ==========================================
+# MODEL CACHES & CHECKPOINTS
+# ==========================================
+.cache/
+**/.cache/
+checkpoints/
+artifacts/
+
+# ==========================================
+# ML EXPERIMENTS
+# ==========================================
+wandb/
+mlruns/
+runs/
+
+# ==========================================
+# DATASETS & GENERATED DATA
+# ==========================================
+data/raw/
+data/processed/
+data/interim/
+datasets/
+uploads/
+*.parquet
+*.feather
+
+# ==========================================
+# DATABASE LOCAL FILES & BACKUPS
+# ==========================================
+*.sqlite
+*.sqlite3
+*.db
+*.dump
+*.bak
+
+# ==========================================
+# JUPYTER
+# ==========================================
+.ipynb_checkpoints/
+
+# ==========================================
+# FRONTEND / NODE
+# ==========================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+frontend/dist/
+frontend/build/
+
+# ==========================================
+# TEMPORARY FILES
+# ==========================================
+*.tmp
+*.temp
+*.orig
+*.old
+
+# HDFC fine-tuned model adapter
+backend/models/hdfc_qlora_final/
+
+# RAG datasets and embeddings
+backend/rag/data/
