@@ -1,4 +1,4 @@
-# HDFC Banking AI Assistant
+# HDFC Bank: Custom LLM Development Pipeline
 
 **An AI-powered conversational banking assistant using Fine-Tuned LLMs, Retrieval-Augmented Generation (RAG), and SQL-based data retrieval.**
 
