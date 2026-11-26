@@ -740,75 +740,17 @@ Known limitations include:
 - Strengthen authentication and authorization.
 - Add production-grade security controls.
 
----
-
-## 21. Team Contributions
-
-This project was developed collaboratively by a team of four members.
-
-| Team Member | Responsibility |
-|---|---|
-| Member 1 | Backend and database development |
-| Member 2 | Add actual contribution |
-| Member 3 | Add actual contribution |
-| Member 4 | Add actual contribution |
-
-Update this section with the actual names and responsibilities of all team members.
-
----
-
-## 22. Screenshots
-
-Add screenshots of the actual working application in a `screenshots/` directory.
-
-Recommended screenshots:
-
-1. Login interface.
-2. Main banking assistant interface.
-3. SQL-based account information query.
-4. Recent transaction retrieval.
-5. RAG-based banking FAQ response.
-6. Final assistant response.
-
-Example:
-
-```markdown
-![Login Page](screenshots/login.png)
-
-![Banking Assistant](screenshots/chat-interface.png)
-
-![SQL Response](screenshots/sql-response.png)
-
-![RAG Response](screenshots/rag-response.png)
-```
-
----
-
-## 23. Project Demonstration
+## 21. Project Demonstration
 
 **GitHub Repository:** Add your final GitHub repository URL.
 
 **Video Demonstration:** Add your Google Drive video URL.
 
-**Live Application:** Add a public application URL if deployment is completed or required by the submission instructions.
-
-The demonstration video should cover:
-
-- Project introduction and business problem.
-- System architecture.
-- Fine-tuned Qwen model.
-- RAG pipeline.
-- Authentication.
-- SQL-based banking queries.
-- RAG-based banking questions.
-- Actual frontend interaction.
-- Project limitations and future improvements.
-
-Set Google Drive video sharing to **Anyone with the link – Viewer**.
+**Live Application:** Not deployed yet due to lack of resources.
 
 ---
 
-## 24. Disclaimer
+## 22. Disclaimer
 
 This project is developed for educational and demonstration purposes as part of an Applied Generative AI project.
 
@@ -820,7 +762,7 @@ It is not an official HDFC Bank product and must not be used for real banking op
 
 ---
 
-## 25. Acknowledgements
+## 23. Acknowledgements
 
 - Hugging Face for open-source model and machine learning tools.
 - Qwen team for the Qwen2.5 model.
