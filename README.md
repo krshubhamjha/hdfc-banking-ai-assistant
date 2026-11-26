@@ -10,6 +10,15 @@
 
 ---
 
+##  Project Demonstration
+
+**GitHub Repository:** (https://github.com/krshubhamjha/hdfc-banking-ai-assistant)
+
+**Video Demonstration:** (https://drive.google.com/file/d/10pAoXIWRaq8IRXA9aI05vL4GopPdWMtQ/view?usp=drive_link)
+
+**Live Application:** Not deployed yet due to lack of resources.In future we will deploy it(locally tested and approved)
+
+---
 ## 1. Project Overview
 
 The HDFC Banking AI Assistant is an Applied Generative AI project designed to demonstrate how Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and structured database queries can work together to provide a conversational banking experience.
@@ -740,17 +749,7 @@ Known limitations include:
 - Strengthen authentication and authorization.
 - Add production-grade security controls.
 
-## 21. Project Demonstration
-
-**GitHub Repository:** (https://github.com/krshubhamjha/hdfc-banking-ai-assistant)
-
-**Video Demonstration:** (https://drive.google.com/file/d/10pAoXIWRaq8IRXA9aI05vL4GopPdWMtQ/view?usp=drive_link)
-
-**Live Application:** Not deployed yet due to lack of resources.In future we will deploy it(locally tested and approved)
-
----
-
-## 22. Disclaimer
+## 21. Disclaimer
 
 This project is developed for educational and demonstration purposes as part of an Applied Generative AI project.
 
@@ -762,7 +761,7 @@ It is not an official HDFC Bank product and must not be used for real banking op
 
 ---
 
-## 23. Acknowledgements
+## 22. Acknowledgements
 
 - Hugging Face for open-source model and machine learning tools.
 - Qwen team for the Qwen2.5 model.
